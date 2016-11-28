@@ -1,0 +1,13 @@
+.msg{
+    color: red;
+}
+
+.right{
+    font-weight: bold;
+    color: green;
+}
+
+.wrong{
+    font-weight: bold;
+    color: red;
+}
